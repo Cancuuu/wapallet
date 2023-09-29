@@ -1,0 +1,25 @@
+{
+  "name": "rnw",
+  "version": "1.0.0",
+  "description": "Create wallets for React Native apps faster than Lightning McQueen",
+  "main": "index.ts",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cancuuu/rnw.git"
+  },
+  "author": "Cancu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cancuuu/rnw/issues"
+  },
+  "homepage": "https://github.com/Cancuuu/rnw#readme",
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.19.3",
+    "bip39": "3.0.2",
+    "ethereumjs-wallet": "^1.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

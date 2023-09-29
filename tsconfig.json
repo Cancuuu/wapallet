@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitAny": true,
+    "noEmit": true,
+    "strict": true,
+    "target": "esnext",
+    "baseUrl": "."
+  },
+  "exclude": ["node_modules", "babel.config.js", "jest.config.ts"]
+}
