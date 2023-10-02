@@ -17,7 +17,9 @@
   "dependencies": {
     "@react-native-async-storage/async-storage": "^1.19.3",
     "bip39": "3.0.2",
-    "ethereumjs-wallet": "^1.0.1"
+    "ethereumjs-wallet": "^1.0.1",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
   },
   "devDependencies": {
     "typescript": "^5.2.2"
